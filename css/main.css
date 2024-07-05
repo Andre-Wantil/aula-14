@@ -32,6 +32,14 @@ main {
   row-gap: 40px;
 }
 
+#bizarro {
+  margin-left: -50px;
+}
+
+#bizonho{
+  margin-left: -100px;
+}
+
 .video__container {
   display: flex;
   flex-direction: column;
